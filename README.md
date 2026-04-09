@@ -64,7 +64,7 @@ The importance of copying data when modifying images
 Debugging edge cases in nested loops and array bounds
 
 ## Why This Project Matters
-This project demonstrates foundational computer science concepts used in real-world graphics and image processing systems, including:
+Demonstrates foundational computer science concepts used in real-world graphics and image processing systems, including:
 
 - Pixel-level data manipulation
 - Memory-aware programming in C
