@@ -7,7 +7,8 @@ Each filter modifies the RGB values of every pixel to produce different visual e
 
 ---
 ## Features
-** Original Image**
+- ** Original Image**
+  - Original image of the yard
 ![Original Image](images/yard.bmp)
 
 - **Grayscale**
