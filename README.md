@@ -7,9 +7,12 @@ Each filter modifies the RGB values of every pixel to produce different visual e
 
 ---
 ## Features
+** Original Image**
+![Original Image](images/yard.bmp)
+
 - **Grayscale**
   - Converts image to black-and-white by averaging RGB values
-![Grayscale Image](images/yard_grayscale.png)
+![Grayscale Image](images/yard_greyscale.png)
 
 - **Sepia**
   - Applies a warm, vintage-style tone to the image
@@ -24,7 +27,6 @@ Each filter modifies the RGB values of every pixel to produce different visual e
 ![Blur Image](images/yard_blur.png)
 
 ---
-
 ## Technologies Used
 
 - C Programming Language  
